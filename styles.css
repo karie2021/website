@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: #4169e1;
+}
+
+h3,
+h3.plot,
+h3.characters {
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: #4682b4;
+}
+
+p,
+.plot2 {
+    margin: 0 auto 10px;
+    padding: 10px;
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    font: 16px;
+    color: #4682b4;
+}
+
+h4.chara {
+    margin: 0 auto 10px;
+    padding: 10px;
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    font: 21px;
+    color: #4682b4;
+}
+
+img .cap {
+    text-align: center;
+}
+
+.pic1 {
+    width: 1280px;
+    height: 720px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        background-color: black;
+    }
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        font-family: 'Kosugi Maru', sans-serif;
+        text-align: center;
+        font-size: 35px;
+        color: #4169e1;
+    }
+    h3,
+    h3.plot,
+    h3.characters {
+        font-family: 'Kosugi Maru', sans-serif;
+        text-align: center;
+        font-size: 25px;
+        color: #4682b4;
+    }
+    p,
+    .plot2 {
+        margin: 0 auto 10px;
+        padding: 10px;
+        font-family: 'Kosugi Maru', sans-serif;
+        text-align: center;
+        font: 16px;
+        color: #4682b4;
+    }
+    h4.chara {
+        margin: 0 auto 10px;
+        padding: 10px;
+        font-family: 'Kosugi Maru', sans-serif;
+        text-align: center;
+        font: 21px;
+        color: #4682b4;
+    }
+    img .cap {
+        text-align: center;
+    }
+    .pic1 {
+        width: 100vw;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
