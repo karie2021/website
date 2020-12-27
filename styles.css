@@ -55,13 +55,13 @@ img .cap {
 
 @media screen and (max-width: 1024px) {
     body {
-        background-color: black;
+        background-color: #fffacd;
     }
     h1 {
         text-align: center;
     }
     h2 {
-        font-family: 'Kosugi Maru', sans-serif;
+        font-family: 'Sawarabi Mincho', sans-serif;
         text-align: center;
         font-size: 35px;
         color: #4169e1;
