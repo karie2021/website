@@ -2,7 +2,10 @@ body {
     background-color: #fffacd;
 }
 
-h1 {
+img {
+    width: 50%;
+    max-width: 50%;
+    height: 50%;
     text-align: center;
 }
 
