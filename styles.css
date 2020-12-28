@@ -56,6 +56,16 @@ img .cap {
     text-align: center;
 }
 
+footer {
+    background-color: #e0ffff;
+}
+
+div.footer {
+    font-size: 14px;
+    text-align: center;
+    color: #4682b4;
+}
+
 @media screen and (max-width: 1024px) {
     body {
         background-color: #fffacd;
@@ -105,5 +115,13 @@ img .cap {
     }
     img {
         max-width: 100%;
+    }
+    footer {
+        background-color: #e0ffff;
+    }
+    div.footer {
+        font-size: 14px;
+        text-align: center;
+        color: #4682b4;
     }
 }
