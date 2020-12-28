@@ -2,7 +2,7 @@ body {
     background-color: #fffacd;
 }
 
-img {
+img.title {
     width: 50%;
     max-width: 50%;
     height: 50%;
